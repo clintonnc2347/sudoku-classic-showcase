@@ -1,10 +1,10 @@
-#Sudoku Classic
+# Sudoku Classic
 
-A clean, modern Sudoku application built with Python and Kivy.
+Launch-ready Sudoku mobile application.
 
 Designed around the timeless newspaper Sudoku experience, the project combines classic gameplay with modern usability features including intelligent highlighting, automatic saving, completion statistics, and multiple difficulty levels.
 
-#Features
+# Features
 
 ✅ 5 difficulty levels
 
@@ -30,31 +30,30 @@ Designed around the timeless newspaper Sudoku experience, the project combines c
 
 ✅ Android deployment ready
 
-#Screenshots
-Gameplay
+# Screenshots
+![Gameplay Screenshot](screenshots/gameplay.jpg)
 
-screenshots/gameplay.jpg
 
 Cell Highlighting
+![Highlighting Screenshot](screenshots/highlighting.jpg)
 
-screenshots/highlighting.jpg
 
 Completion Screen
 
-screenshots/completion.jpg
+![Completion Screenshot](screenshots/completion.jpg)
 
 Difficulty Selection
 
-screenshots/difficulty.jpg
+![Difficulty Screenshot](screenshots/difficulty.jpg)
 
-#Technical Overview
+# Technical Overview
 Python
 Kivy
 MVP Architecture
 Asynchronous Puzzle Generation
 Optimized Board Rendering
 
-#Sale Includes
+# Sale Includes
 Full source code
 Complete project assets
 Documentation
@@ -62,12 +61,12 @@ Screenshots and branding
 Android deployment configuration
 Current Google Play Closed Testing version
 
-#Current Status
+# Current Status
 Feature complete and currently undergoing Google Play Closed Testing.
 No users or revenue acquired yet.
 Ideal for mobile app publishers, indie developers, and entrepreneurs looking for a launch-ready puzzle application.
 
 
-#Acquisition
+# Acquisition
 This project is currently available for acquisition through SideProjectors.
 
