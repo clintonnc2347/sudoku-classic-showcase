@@ -31,19 +31,23 @@ Designed around the timeless newspaper Sudoku experience, the project combines c
 ✅ Android deployment ready
 
 # Screenshots
+
+Gameplay Screenshot
 ![Gameplay Screenshot](screenshots/gameplay.jpg)
+
 
 
 Cell Highlighting
 ![Highlighting Screenshot](screenshots/highlighting.jpg)
 
 
-Completion Screen
 
+Completion Screen
 ![Completion Screenshot](screenshots/completion.jpg)
 
-Difficulty Selection
 
+
+Difficulty Selection
 ![Difficulty Screenshot](screenshots/difficulty.jpg)
 
 # Technical Overview
